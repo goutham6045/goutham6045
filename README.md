@@ -3,8 +3,8 @@
 <h1 align="center">Intro</h1>
 
 <p align="center">
-  <a href="https://www.instagram.com/sorrow.dada/"><img src="https://img.shields.io/badge/car_instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  <a href="https://www.linkedin.com/in/danielmayab/">
+  <a href="https://www.instagram.com/goutham6045/"><img src="https://img.shields.io/badge/car_instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/g-mekala/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <!--   <a href="https://www.mayadan.com/">
     <img src="https://img.shields.io/badge/My_Portfolio-17202C.svg?&style=for-the-badge&logo=react&logoColor=white" height=25></a> -->
