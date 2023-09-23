@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=750&color=47f0d7&center=true&vCenter=true&width=1000&height=100&lines=.+.+.+💬+Hello+Stranger+💬+.+.+.;.+.+.+🔺+Welcome+To+My+Venue+🔻+.+.+.;.+.+.+⚠️+Make+Yourself+At+Home+%3A&#41;+⚜️+.+.+.)](https://git.io/typing-svg)
+
 
 <h1 align="center">Intro</h1>
 
@@ -42,16 +42,4 @@
   <code><img title="OpenID" height="35" src="./icons/openid.svg"></code>
 </p>
 
-</br>
-<h1 align="center">GitHub Stats</h1>
-<p align="center">
-</br>
-</p>
 
-<p align="center">
-  <img src="https://readme-stats-cwvn.vercel.app/api?username=ReaVNaiL&custom_title=ReaVNaiL+-+Daniel+Maya.+&border_color=47f0d7&show_icons=true&count_private=true&theme=gotham">
-</p>
-
-<p align="center">
-  <img height="225" width="450" src="https://readme-stats-cwvn.vercel.app/api/top-langs/?username=ReaVNaiL&layout=compact&langs_count=10&hide=jupyter%20notebook&exclude_repo=FTP-Client-Server,Linked-Attributes-Implementation,DirectLinks-Update-Dirs&count-private=true&theme=gotham&border_color=47f0d7"/>
-</p>
