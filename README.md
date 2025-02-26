@@ -1,21 +1,9 @@
 <h1 align="center">Hi 👋, I'm Goutham Kumar Mekala</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goutham6045&label=Profile%20views&color=0e75b6&style=flat" alt="goutham6045" /> </p>
 
 
-
-- 🔭 I’m currently working on **Messenger Clone**
-
-- 🌱 I’m currently learning **React JS, Next JS, Springboot**
-
-- 👯 I’m looking to collaborate on **Web Dev Projects**
-
-- 🤝 I’m looking for help with **Next JS, SpringBoot**
-
-- 👨‍💻 All of my projects are available at [gouthamkumarportfolio.netlify.app/](gouthamkumarportfolio.netlify.app/)
-
-- 💬 Ask me about **React, Azure Cloud, Node**
 
 - 📫 How to reach me **goutham6599@gmail.com**
 
